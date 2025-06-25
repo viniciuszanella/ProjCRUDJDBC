@@ -4,10 +4,9 @@ Aplicação Java para gestão de Pessoas, Funcionários e Projetos, utilizando J
 
 ## ✨ Tecnologias Utilizadas
 
-*   **Java 11**
 *   **Maven** - Gerenciador de dependências
 *   **MySQL** - Banco de dados relacional
-*   **JDBC (Java Database Connectivity)** - Para comunicação com o banco de dados
+*   **JDBC** - Para comunicação com o banco de dados
 *   **Lombok** - Para reduzir código (getters, setters, etc.)
 
 ---
